@@ -1,0 +1,27 @@
+body{
+	font-size: 17px;
+	background-color: #5827B9;
+	color: #80D711;
+	
+}
+#main-content{
+	background-color: #510A26;
+	height: 1000px;
+	width: 100%;
+	padding-top: 10px;
+	margin-top: 40px;
+	
+}
+#heading1:hover{
+	color: #DED820;
+
+}
+ul{
+	margin:0; 
+
+}
+#nav-list{
+	background-color:#951C49; 
+
+}
+
