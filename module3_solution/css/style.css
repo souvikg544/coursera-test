@@ -5,17 +5,14 @@ body{
 	
 }
 #main-content{
-	background-color: #510A26;
+	background-color: #4AC5E3;
 	height: 1000px;
 	width: 100%;
 	padding-top: 10px;
 	margin-top: 40px;
 	
 }
-#heading1:hover{
-	color: #DED820;
 
-}
 ul{
 	margin:0; 
 
